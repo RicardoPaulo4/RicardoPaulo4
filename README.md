@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, I'm Ricardo! 👋
 
-<!--
-**RicardoPaulo4/RicardoPaulo4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 **Cybersecurity Student | Operations Supervisor | Continuous Learner**
 
-Here are some ideas to get you started:
+I'm currently studying cybersecurity and developing my technical skills while exploring different areas of information security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With a background in operations management and team leadership, I bring strong problem-solving, critical thinking, and organizational skills.
+
+I'm passionate about continuous learning, preventing cyber threats, and protecting people and organizations.
+
+🎯 **My goal:** To build a professional career in cybersecurity and contribute to a safer digital environment.
+
+📚 **Currently learning:** Cybersecurity fundamentals, Python programming, and operating systems.
